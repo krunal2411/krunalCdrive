@@ -1,0 +1,76 @@
+1.What is software?
+Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+It is the opposite of hardware, which describes the physical aspects of a computer. 
+Software is a generic term used to refer to applications, scripts and programs that run on a device.
+
+2.Types Of Software
+1.Application Software:application software, also called application program, 
+software designed to handle specific tasks for users. 
+Such software directs the computer to execute commands given by the user and may be said to 
+include any program that processes data for a user.
+
+2.System software:System software is a type of computer program that
+is designed to run a computer's hardware and application programs.
+If we think of the computer system as a layered model, 
+the system software is the interface between the hardware and user applications. 
+The operating system is the best-known example of system software.
+
+3.Driver software:A driver in software provides a programming interface to control 
+and manage specific lower-level interfaces that are often linked to a specific type of hardware, 
+or other low-level service. 
+
+4.Middleware:Middleware is software that enables one or more kinds of communication or connectivity 
+between applications or application components in a distributed network. 
+By making it easier to connect applications that weren't designed to connect with one another, 
+and providing functionality to connect them in intelligent ways, 
+middleware streamlines application development and speeds time to market.
+
+5.Programming software:Programming software is a tool for creating computer code that allows computer software to operate. 
+The computer technology field frequently uses overlapping terminology, which can be perplexing.
+
+3.What is Software Development Methodoogy?
+A software development methodology is a process by which developers design, 
+implement and test new computer programs. 
+Following a methodology benefits developers because these processes lay out a structured sequence of steps that 
+guide professionals through each stage of development. 
+Additionally, development methodologies often follow a design philosophy, 
+which can help developers align their process and the product's features with its functional goals. 
+
+For example, the developer may define what the software product does and what problems it solves for users as part of 
+their design philosophy.
+
+4.What is design pattern?
+A design pattern provides a general reusable solution for the common problems that occur in software design. 
+The pattern typically shows relationships and interactions between classes or objects. 
+The idea is to speed up the development process by providing well-tested, proven development/design paradigms.
+
+INTERMEDIATE
+1.What is the difference between application software and system software?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
